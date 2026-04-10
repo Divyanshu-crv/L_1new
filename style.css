@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: pink;
+}
+h1{
+    background-color: blanchedalmond;
+}
+#box{
+    background-color: beige;
+}
+#b{
+    background-color: aliceblue;
+}
